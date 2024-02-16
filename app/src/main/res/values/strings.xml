@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubListAssessment</string>
+    <string name="content_description_user_avatar">Avatar</string>
+    <string name="title_user_list">Users</string>
+    <string name="template_username">Username: %1$s</string>
+    <string name="template_company">Company: %1$s</string>
+    <string name="template_location">Location: %1$s</string>
+    <string name="template_bio">Bio: %1$s</string>
+    <string name="template_email">Email: %1$s</string>
+    <string name="template_followers">Followers: %1$s</string>
+    <string name="template_following">Following: %1$s</string>
+    <string name="content_description_back">Back</string>
+    <string name="content_description_retry">Retry</string>
+    <string name="label_error">Something went wrong</string>
+    <string name="action_retry">Retry</string>
+</resources>
